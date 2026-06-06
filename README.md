@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">## About Me<br><br>💻 Java Developer in the making<br><br>🔹 Learning Data Structures & Algorithms  <br>🔹 Exploring Java and Backend Development  <br>🔹 Building projects and improving problem-solving skills  <br>🔹 Open to learning and collaboration</p>
+<p align="left"><br><br>💻 Java Developer in the making<br><br>🔹 Learning Data Structures & Algorithms  <br>🔹 Exploring Java and Backend Development  <br>🔹 Building projects and improving problem-solving skills  <br>🔹 Open to learning and collaboration</p>
 
 ###
 
